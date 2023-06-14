@@ -1,1 +1,1 @@
-Nice
+console.log("hello");
